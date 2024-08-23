@@ -1,90 +1,154 @@
-Pinbin WordPress theme is a fully responsive theme that looks great on any devices including iPad, iPhone or any other mobile device. This theme is inspired by Pinterest grid system that puts images first. Pinbin is a perfect fit for photographers, web designers and anyone who likes to show off their photos, mockups, infographics and any other images.  Some other great features are sticky (fixed) navigation, responsive layout, simplicity and minimalism. 
-For support, please post in the forums at http://wordpress.org or http://colorawesomeness.com/themes/pinbin/
+# Adaptable Notes
+
+Contributors: ThemeEverest  
+Requires at least: WordPress 4.9.8  
+Tested up to: WordPress 5.3
+Stable tag: 1.0
+Version: 1.0
+Author URI: https://superbthemes.com/ 
+License: GPLv2 or later  
+License URI: http://www.gnu.org/licenses/gpl-2.0.html  
+Tags: two-columns, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, custom-logo, featured-image-header, featured-images, footer-widgets, sticky-post, theme-options, threaded-comments, translation-ready, blog, entertainment, news
+
+Adaptable Notes is your seo friendly & responsive theme made for blogging. The code is clean so your website will be quick and load fast with great page speed. The theme is simple to setup but has a lot of features for both affiliate marketing, i.e. lots of advertisement space for affiliate programs such as Google AdSense - of course this kind of website requires a SEO optimized, creative & modern theme which Adaptable Notes is. Authors & bloggers can easily create a simple and minimalistic blog. The theme is easy to set up and works with most most schema markups (json etc) so you can have reviews or other type of affiliate content. You can publish editorial content about anything, even revenue generating content such as cryptocurrency, forex, betting, gambling and more.
+
+## Description
+
+Adaptable Notes is your seo friendly & responsive theme made for blogging. The code is clean so your website will be quick and load fast with great page speed. The theme is simple to setup but has a lot of features for both affiliate marketing, i.e. lots of advertisement space for affiliate programs such as Google AdSense - of course this kind of website requires a SEO optimized, creative & modern theme which Adaptable Notes is. Authors & bloggers can easily create a simple and minimalistic blog. The theme is easy to set up and works with most most schema markups (json etc) so you can have reviews or other type of affiliate content. You can publish editorial content about anything, even revenue generating content such as cryptocurrency, forex, betting, gambling and more.
+
+## Copyright
+
+Adaptable Notes WordPress Theme, Copyright 2019 ThemeEverest
+Adaptable Notes is distributed under the terms of the GNU GPL
+All files coded by me, and fonts (for example Adaptable Notes font) is under GPLv2 http://www.gnu.org/licenses/gpl-2.0.html
+
+Adaptable Notes bundles the following third-party resources:
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+______
+IMG FROM SCREENSHOT AND THEME FOLDER
+
+Image for theme screenshot, Copyright Bogdan Tischer
+License: CC0 1.0 Universal (CC0 1.0)
+Source: https://pxhere.com/en/photo/1438619
+
+Image for theme screenshot, Copyright Rawpixels
+License: CC0 1.0 Universal (CC0 1.0)
+Source: https://pxhere.com/en/photo/1431119
 
 
-== Installation ==
-Manual installation:
+Image for theme screenshot, Copyright Lulu1283
+License: CC0 1.0 Universal (CC0 1.0)
+Source: https://pxhere.com/en/photo/1593290
 
-1. Upload the `pinbin` folder to the `/wp-content/themes/` directory
+Image for theme screenshot, Copyright Pxhere
+License: CC0 1.0 Universal (CC0 1.0)
+Source: https://pxhere.com/en/photo/866936
 
-Activiation and Use
 
-1. Activate the Theme through the 'Themes' menu in WordPress
-2. See Appearance -> Pinbin Options to change theme specific options
+* Bootstrap - http://getbootstrap.com/
+Licensed Under MIT( https://opensource.org/licenses/MIT)
 
-== Custom Logo ==
-This theme supports custom logo for the header part. 
-You can change or remove it from Appearance -> Pinbin Options.
+* Flex slider 
+* We Use Flex slider by Jeffrey Pearce
+* GNU General Public License v2.0
+* https://github.com/woocommerce/FlexSlider/blob/master/LICENSE.md
 
-== Default image ==
-Default image from theme screenshot you can find at /pinbin/images/
+* Based on Underscores (C) 2012-2015 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
+* License: GNU General Public License v2 or later
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html
+* Copyright: Automattic http://underscores.me/
+* Based on Startup Hub https://wordpress.org/themes/startup-hub/
+* (C) ThemeEverest, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
+* Based on Ribbon Lite https://wordpress.org/themes/ribbon-lite/
+* (C) MyThemeShop, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
+* Based on Landing Pagency https://wordpress.org/themes/landing-pagency/
+* (C) AdmirableThemes, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
+* Based on Veayo https://wordpress.org/themes/veayo/ 
+* (C) 2012-2018 Topbestviral, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
+* Based on Newspaperly https://wordpress.org/themes/newspaperly/
+* (C) ThemeEverest, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
+* Based on Minimalistblogger https://wordpress.org/themes/minimalistblogger/
+* (C) ThemeEverest, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
+* Based on personalblogily https://wordpress.org/themes/personalblogily/
+* (C) ThemeEverest, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
+* Based on One Pageily https://wordpress.org/themes/one-pageily/
+* (C) ThemeEverest, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
 
-== License ==
-Unless otherwise specified, all the theme files, scripts and images
-are licensed under GNU General Public License version 2, see http://www.gnu.org/licenses/gpl-2.0.html.
-The exceptions to this license are as follows:
-- The script jQuery Masonry plugin (jquery.masonry.min.js) is licensed under MIT
-- Default image (/pinbin/images/default.jpg) is the theme's designer personal creations and distributed under the terms of the Creative Commons CC0 1.0 Universal Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+* normalize.css http://necolas.github.io/normalize.css/, (C) 
+* 2012-2018 Nicolas Gallagher and Jonathan Neal, [MIT](http://opensource.org/licenses/MIT)
 
-== Theme Notes ==
-About the theme in the following link.
-http://colorawesomeness.com/themes/pinbin/
+* html5shiv - http://code.google.com/p/html5shiv/
+*License Under MIT (http://opensource.org/licenses/MIT)
 
-You can drop your queries in our contact form in the following link.
-http://colorawesomeness.com/themes/contact-us/
+* Font Awesome - http://fortawesome.github.io/Font-Awesome/
+* Font License
+* Applies to all desktop and webfont files in the following directory: /fonts/.
+* License: SIL OFL 1.1
+* URL: http://scripts.sil.org/OFL
+* Code License
+* Applies to all CSS and LESS files in the following directories: /css/ and /less/.
+* License: MIT License
+* URL: http://opensource.org/licenses/mit-license.html
+* Documentation License
+* Applies to all Font Awesome project files that are not a part of the Font or Code licenses.
+* License: CC BY 3.0
+*	 URL: http://creativecommons.org/licenses/by/3.0/
 
-== Additional Notes ==
-The theme is released for free under the terms of the GNU General Public License version 2
-and some parts under their respective licenses.
-In general words, feel free and encouraged to use, modify and redistribute this theme however you like.
-You may remove any copyright references (unless required by third party components) and crediting is not necessary.
-The theme is offered free of charge. If someone asked money for it, someone just tricked you.
+* Open Sans 
+* License: Apache License, version 2.0
+* License URI: http://www.apache.org/licenses/LICENSE-2.0.html
 
-== Supported Browser ==
-Mozilla Firefox, Google Chrome, Safari, IE 10,9,8,7
+* Fira Sans - http://fonts.googleapis.com/css?family=Fira+Sans
+* License: SIL Open Font License, 1.1
+* License URI: http://scripts.sil.org/OFL
 
-== Version history ==
-1.4.7 - Improved alignment for images
-		Improved Firefox support
-		Some other minor CSS tweaks
+* Font-Awesome
+* License: GPL Friendly
+* License URI: https://fortawesome.github.io/Font-Awesome/license/
 
-1.4.6 - Fixed issues with functions.js file.
+* Scripts in folder js 
+* All scripts that are not third party is coded by me and they are under license GPLv2 or later: http://www.gnu.org/licenses/gpl-2.0.html
+* customizer.js
+* addons.js
+* customscripts.js
+* navigation.js
+* skip-link-focus-fix.js
+* jQuery FlexSlider v2.2.2
 
-1.4.5 -	Fixed post overlapping issues for mobile devices.
+* html5shiv - http://code.google.com/p/html5shiv/ License Under MIT (http://opensource.org/licenses/MIT)
 
-1.4.4 -	Updated copyright/license information 
+* Screenshot icons and images in /icons are GPLv2 as well are GPLv2 as well made in Adobe Illustrator 6
 
-1.4.3 -	Updated copyright/license information 
+* Addons.js is copyrighted GPLv2 as well
 
-1.4.2 -	Added license information for the default image
-		Navigation now wrapped within div.
-		Improved page navigation. Now wrapped with "nav".
-		Updated screenshot 
+* Font: Adaptable Notes Fonts (customizable-blogily can be found in /fonts)
+License: SIL OFL 1.1
+License: CC0 License
+* Font: Adaptable Notes Fonts (adapable-notes can be found in /fonts)
+License: SIL OFL 1.1
+License: CC0 License
 
-1.4.1 -	Added default image
-		Updated screenshot
-
-1.4 - 	Major CSS overhaul to reduce its size.
-		Improved responsiveness on mobile devices (search page and post page).
-		Improved lists styles
-		Updated comments section
-
-1.3 - 	Minor CSS improvements
-		Updated functions.php file with "wp_title()".
-		Front-end scripts are now securely added using "if ( ! is_admin() )"
-		Theme settings page now uses "submit_button()"
-		Theme settings scripts are now limited to one page
-
-1.2 - 	Completely rewritten functions.php. Theme now uses default WP scripts.
-		Improved cross-browser compatibility
-		Several other bug fixes and improvements.
-		Improved support for mobile devices with smaller screens
-		Translation ready
-
-1.1 - 	Several bug fixes and design improvements. 
-		Improved mobile menu and overall support for mobile devices. 
-		New search page now displaying search term and featured images.
-		Updated header and header navigation.
-		Logo uploader now uses WordPress built-in media manager.
-
-1.0 – Hello world!
+* Woocommerce copyrighted by Automaticc is integrated: https://wordpress.org/plugins/woocommerce/
+* Icons in the screenshot is made in Illustrator and is GPLv2 or later
+* http://www.webalys.com/
+* Copyright and License for Upsell button by Justin Tadlock - 2016 © Justin Tadlock.
+* Link: https://github.com/justintadlock/trt-customizer-pro
+* License: GPL Friendly
+* License URI: https://github.com/justintadlock/trt-customizer-pro/blob/master/license.md
+* We use TGM Plugin Activation (TGMPA) http://tgmpluginactivation.com/ 
+*  TGM Plugin Activation
+*The TGM Plugin Activation library is licensed under the GPL-2.0 or later license. https://opensource.org/licenses/GPL-2.0
+* [![GitHub license](https://img.shields.io/badge/license-GPLv2-blue.svg)](https://raw.githubusercontent.com/TGMPA/TGM-Plugin-Activation/develop/LICENSE.md)
+* [![Build Status](https://travis-ci.org/TGMPA/TGM-Plugin-Activation.svg?branch=develop)](https://travis-ci.org/TGMPA/TGM-Plugin-Activation)
+* [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/TGMPA/TGM-Plugin-Activation/badges/quality-score.png?b=develop)](https://scrutinizer-ci.com/g/TGMPA/TGM-Plugin-Activation/?branch=develop)
+* Beaver Builder Lite Version is implemented into the theme: https://wordpress.org/plugins/beaver-builder-lite-version/ it is licensed under GPL v2 or later
